@@ -1,0 +1,1831 @@
+fileFormatVersion: 2
+guid: 6de2150de6709154eb141ee2cd59c73b
+timeCreated: 1467397362
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: supertileset_0
+    21300002: supertileset_1
+    21300004: supertileset_2
+    21300006: supertileset_3
+    21300008: supertileset_4
+    21300010: supertileset_5
+    21300012: supertileset_6
+    21300014: supertileset_7
+    21300016: supertileset_8
+    21300018: supertileset_9
+    21300020: supertileset_10
+    21300022: supertileset_11
+    21300024: supertileset_12
+    21300026: supertileset_13
+    21300028: supertileset_14
+    21300030: supertileset_15
+    21300032: supertileset_16
+    21300034: supertileset_17
+    21300036: supertileset_18
+    21300038: supertileset_19
+    21300040: supertileset_20
+    21300042: supertileset_21
+    21300044: supertileset_22
+    21300046: supertileset_23
+    21300048: supertileset_24
+    21300050: supertileset_25
+    21300052: supertileset_26
+    21300054: supertileset_27
+    21300056: supertileset_28
+    21300058: supertileset_29
+    21300060: supertileset_30
+    21300062: supertileset_31
+    21300064: supertileset_32
+    21300066: supertileset_33
+    21300068: supertileset_34
+    21300070: supertileset_35
+    21300072: supertileset_36
+    21300074: supertileset_37
+    21300076: supertileset_38
+    21300078: supertileset_39
+    21300080: supertileset_40
+    21300082: supertileset_41
+    21300084: supertileset_42
+    21300086: supertileset_43
+    21300088: supertileset_44
+    21300090: supertileset_45
+    21300092: supertileset_46
+    21300094: supertileset_47
+    21300096: supertileset_48
+    21300098: supertileset_49
+    21300100: supertileset_50
+    21300102: supertileset_51
+    21300104: supertileset_52
+    21300106: supertileset_53
+    21300108: supertileset_54
+    21300110: supertileset_55
+    21300112: supertileset_56
+    21300114: supertileset_57
+    21300116: supertileset_58
+    21300118: supertileset_59
+    21300120: supertileset_60
+    21300122: supertileset_61
+    21300124: supertileset_62
+    21300126: supertileset_63
+    21300128: supertileset_64
+    21300130: supertileset_66
+    21300132: supertileset_65
+    21300134: supertileset_67
+    21300136: supertileset_68
+    21300138: supertileset_69
+    21300140: supertileset_70
+    21300142: supertileset_71
+    21300144: supertileset_72
+    21300146: supertileset_73
+    21300148: supertileset_74
+    21300150: supertileset_75
+    21300152: supertileset_76
+    21300154: supertileset_77
+    21300156: grappoint
+    21300158: lava1
+    21300160: lava2
+    21300162: lava3
+    21300164: supertileset_78
+    21300166: supertileset_79
+    21300168: supertileset_80
+    21300170: supertileset_81
+    21300172: supertileset_82
+    21300174: supertileset_83
+    21300176: supertileset_84
+    21300178: supertileset_85
+    21300180: supertileset_86
+    21300182: supertileset_87
+    21300184: supertileset_88
+    21300186: supertileset_89
+    21300188: supertileset_90
+    21300190: barrel
+    21300192: supertileset_91
+    21300194: supertileset_92
+    21300196: supertileset_93
+    21300198: supertileset_94
+    21300200: supertileset_95
+    21300202: supertileset_96
+    21300204: supertileset_97
+    21300206: supertileset_98
+    21300208: supertileset_99
+    21300210: supertileset_100
+    21300212: supertileset_101
+    21300214: supertileset_102
+    21300216: supertileset_103
+    21300218: supertileset_104
+    21300220: supertileset_105
+    21300222: supertileset_106
+    21300224: supertileset_107
+    21300226: supertileset_108
+    21300228: supertileset_109
+    21300230: supertileset_110
+    21300232: supertileset_111
+    21300234: supertileset_112
+    21300236: supertileset_113
+    21300238: supertileset_114
+    21300240: supertileset_115
+    21300242: supertileset_wall
+    21300244: supertileset_116
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 0.001
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: supertileset_0
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1409
+        width: 63
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 63.5}
+        - {x: -31.5, y: 59.5}
+        - {x: -31.5, y: -54.5}
+        - {x: -21.5, y: -63.5}
+        - {x: 31.5, y: -63.5}
+        - {x: 31.5, y: 63.5}
+    - name: supertileset_1
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1411
+        width: 61
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 62}
+        - {x: -30.5, y: 57}
+        - {x: -30.5, y: -53}
+        - {x: -21.5, y: -62}
+        - {x: 30.5, y: -62}
+        - {x: 30.5, y: 57}
+        - {x: 24.5, y: 62}
+    - name: supertileset_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1408
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 64}
+        - {x: -32, y: 57}
+        - {x: -32, y: -52}
+        - {x: -19, y: -64}
+        - {x: 32, y: -64}
+        - {x: 32, y: 60}
+        - {x: 30, y: 64}
+    - name: supertileset_3
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1409
+        width: 61
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 61.5}
+        - {x: -30.5, y: 57.5}
+        - {x: -30.5, y: -59.5}
+        - {x: -23.5, y: -61.5}
+        - {x: 30.5, y: -61.5}
+        - {x: 30.5, y: 61.5}
+    - name: supertileset_4
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1410
+        width: 65
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 63}
+        - {x: -32.5, y: 63}
+        - {x: -32.5, y: 61}
+        - {x: -30.5, y: 59}
+        - {x: -27.5, y: 59}
+        - {x: -32.5, y: 59}
+        - {x: -32.5, y: -63}
+        - {x: 32.5, y: -63}
+    - name: supertileset_5
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1409
+        width: 64
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 63.5}
+        - {x: -32, y: -51.5}
+        - {x: -21, y: -63.5}
+        - {x: 32, y: -63.5}
+        - {x: 32, y: 58.5}
+        - {x: 25, y: 63.5}
+      - - {x: 26, y: 63.5}
+        - {x: 25, y: 62.5}
+        - {x: 25, y: 60.5}
+        - {x: 29, y: 56.5}
+        - {x: 30, y: 56.5}
+        - {x: 32, y: 58.5}
+        - {x: 32, y: 63.5}
+    - name: supertileset_6
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1666
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1539
+        width: 63
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 62.5}
+        - {x: -31.5, y: -62.5}
+        - {x: 31.5, y: -62.5}
+        - {x: 31.5, y: 62.5}
+    - name: supertileset_8
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1539
+        width: 60
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 62}
+        - {x: -30, y: -62}
+        - {x: 30, y: -62}
+        - {x: 30, y: 62}
+    - name: supertileset_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1665
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_10
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1539
+        width: 60
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 62.5}
+        - {x: -30, y: -62.5}
+        - {x: 30, y: -62.5}
+        - {x: 30, y: 62.5}
+    - name: supertileset_11
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1669
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1541
+        width: 58
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 60}
+        - {x: -29, y: -60}
+        - {x: 29, y: -60}
+        - {x: 29, y: 60}
+    - name: supertileset_13
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1666
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_14
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1542
+        width: 62
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 61}
+        - {x: -31, y: -61}
+        - {x: 31, y: -61}
+        - {x: 31, y: 61}
+    - name: supertileset_15
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1668
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1699
+        width: 64
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 63}
+        - {x: -32, y: -63}
+        - {x: 32, y: -63}
+        - {x: 32, y: 63}
+    - name: supertileset_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1827
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1697
+        width: 64
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 64.5}
+        - {x: -32, y: -64.5}
+        - {x: 32, y: -64.5}
+        - {x: 32, y: 64.5}
+    - name: supertileset_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1829
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_20
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1829
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1858
+        width: 64
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 55.5}
+        - {x: -32, y: -55.5}
+        - {x: 32, y: -55.5}
+        - {x: 32, y: 55.5}
+    - name: supertileset_22
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1985
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_23
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1859
+        width: 65
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 62}
+        - {x: -32.5, y: -62}
+        - {x: 32.5, y: -62}
+        - {x: 32.5, y: 62}
+    - name: supertileset_24
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1984
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_25
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1859
+        width: 58
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 60}
+        - {x: -29, y: -60}
+        - {x: 29, y: -60}
+        - {x: 29, y: 60}
+    - name: supertileset_26
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1986
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_27
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 669
+        width: 23
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_28
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 670
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 31.5}
+        - {x: -15.5, y: 22.5}
+        - {x: -15.5, y: -7.5}
+        - {x: -12.5, y: -31.5}
+        - {x: 16.5, y: -31.5}
+        - {x: 16.5, y: 31.5}
+    - name: supertileset_29
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 675
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 671
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 673
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_33
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 672
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_35
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 35
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 48.5}
+        - {x: -17.5, y: -48.5}
+        - {x: 17.5, y: -48.5}
+        - {x: 17.5, y: 48.5}
+    - name: supertileset_36
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 66
+        width: 93
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_37
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 66
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_38
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 66
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_39
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 65
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_40
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 67
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_41
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 2
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_42
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 3
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_43
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 225
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_44
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 191
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_45
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 162
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_46
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 162
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_47
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 386
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 28.5}
+        - {x: -12.5, y: 28.5}
+        - {x: -30.5, y: 12.5}
+        - {x: -30.5, y: -28.5}
+        - {x: 30.5, y: -28.5}
+        - {x: 30.5, y: 15.5}
+        - {x: 23.5, y: 23.5}
+    - name: supertileset_48
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 417
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_49
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 480
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_50
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 479
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 17.5}
+        - {x: -24, y: -16.5}
+        - {x: -23, y: -17.5}
+        - {x: 27, y: -17.5}
+        - {x: 28, y: -16.5}
+        - {x: 28, y: 17.5}
+    - name: supertileset_51
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1056
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 3, w: 0}
+      outline:
+      - - {x: -15.5, y: 16.5}
+        - {x: -15.5, y: -10.5}
+        - {x: -8.5, y: -16.5}
+        - {x: 18.5, y: -16.5}
+        - {x: 18.5, y: 16.5}
+    - name: supertileset_52
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 742
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 23.5}
+        - {x: -29.5, y: 16.5}
+        - {x: -29.5, y: -22.5}
+        - {x: -22.5, y: -25.5}
+        - {x: 29.5, y: -25.5}
+        - {x: 29.5, y: 11.5}
+        - {x: 19.5, y: 23.5}
+    - name: supertileset_53
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 97
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 32}
+        - {x: -16.5, y: -32}
+        - {x: 16.5, y: -32}
+        - {x: 16.5, y: 32}
+    - name: supertileset_54
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 32
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 31}
+        - {x: -26, y: 31}
+        - {x: -31, y: 25}
+        - {x: -31, y: -22}
+        - {x: -30, y: -32}
+        - {x: 31, y: -32}
+        - {x: 31, y: 16}
+        - {x: 25, y: 27}
+    - name: supertileset_55
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1121
+        width: 64
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 63}
+        - {x: -32, y: -63}
+        - {x: 32, y: -63}
+        - {x: 32, y: 63}
+    - name: supertileset_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14.5}
+        - {x: -13, y: 11.5}
+        - {x: -16, y: 7.5}
+        - {x: -16, y: -18.5}
+        - {x: 16, y: -18.5}
+        - {x: 16, y: 13.5}
+        - {x: 9, y: 14.5}
+    - name: supertileset_57
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1078
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 10}
+        - {x: -13, y: -12}
+        - {x: -11, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: 8}
+        - {x: 15, y: 10}
+    - name: supertileset_58
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1126
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 9.5}
+        - {x: -16, y: 4.5}
+        - {x: -16, y: -13.5}
+        - {x: -10, y: -17.5}
+        - {x: 17, y: -17.5}
+        - {x: 18, y: -14.5}
+        - {x: 18, y: 6.5}
+        - {x: 13, y: 9.5}
+      - - {x: -13, y: 18.5}
+        - {x: -13, y: 14.5}
+        - {x: 0, y: 14.5}
+        - {x: 1, y: 16.5}
+        - {x: 1, y: 18.5}
+      - - {x: 3, y: 18.5}
+        - {x: 4, y: 15.5}
+        - {x: 11, y: 15.5}
+        - {x: 13, y: 17.5}
+        - {x: 13, y: 18.5}
+    - name: supertileset_59
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1158
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_60
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1549
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 22.5}
+        - {x: -25.5, y: 19.5}
+        - {x: -25.5, y: -22.5}
+        - {x: 25.5, y: -22.5}
+        - {x: 25.5, y: 22.5}
+    - name: supertileset_61
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1731
+        width: 93
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 319
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1895
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 29}
+        - {x: -16, y: -29}
+        - {x: 16, y: -29}
+        - {x: 16, y: 29}
+    - name: supertileset_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1895
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1897
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1762
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1794
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1794
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 16.5}
+        - {x: -32, y: -16.5}
+        - {x: 32, y: -16.5}
+        - {x: 32, y: 16.5}
+    - name: supertileset_69
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_70
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 162
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_71
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 98
+        width: 128
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 30.5}
+        - {x: -64, y: -30.5}
+        - {x: 64, y: -30.5}
+        - {x: 64, y: 30.5}
+      - - {x: -45, y: 12.5}
+        - {x: 15, y: 12.5}
+        - {x: 15, y: -19.5}
+        - {x: -45, y: -19.5}
+    - name: supertileset_72
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 98
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 31}
+        - {x: -24, y: -31}
+        - {x: 24, y: -31}
+        - {x: 24, y: 31}
+    - name: supertileset_73
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 799
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 16.5}
+        - {x: -17.5, y: -16.5}
+        - {x: 15.5, y: -16.5}
+        - {x: 16.5, y: -15.5}
+        - {x: 16.5, y: 16.5}
+    - name: supertileset_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 66
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 30}
+        - {x: -10.5, y: 29}
+        - {x: -16.5, y: 13}
+        - {x: -16.5, y: -30}
+        - {x: 16.5, y: -30}
+        - {x: 16.5, y: 15}
+        - {x: 10.5, y: 30}
+    - name: supertileset_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_76
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 290
+        width: 65
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_77
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 319
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 31.5}
+        - {x: -16, y: 30.5}
+        - {x: -16, y: -31.5}
+        - {x: 16, y: -31.5}
+        - {x: 16, y: 24.5}
+        - {x: 10, y: 31.5}
+    - name: grappoint
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 447
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: lava1
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 992
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 16}
+        - {x: -31, y: -16}
+        - {x: 31, y: -16}
+        - {x: 31, y: 16}
+    - name: lava2
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 960
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: lava3
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 929
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_78
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 672
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_79
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 162
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_81
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 192
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_83
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 255
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_84
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 256
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_85
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 868
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_86
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 963
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_87
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1537
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 10.5}
+        - {x: 20, y: 7.5}
+        - {x: 14, y: 0.5}
+        - {x: 14, y: -1.5}
+        - {x: 14, y: 6.5}
+        - {x: 19, y: 7.5}
+        - {x: 28, y: 20.5}
+        - {x: 26, y: 31.5}
+        - {x: -24, y: 31.5}
+        - {x: -32, y: 17.5}
+        - {x: -32, y: -4.5}
+        - {x: -27, y: -4.5}
+        - {x: -25, y: -6.5}
+        - {x: -20, y: -6.5}
+        - {x: -23, y: -7.5}
+        - {x: -24, y: -8.5}
+        - {x: -27, y: -5.5}
+        - {x: -32, y: -5.5}
+        - {x: -32, y: -31.5}
+        - {x: 28, y: -31.5}
+        - {x: 32, y: -28.5}
+        - {x: 32, y: 5.5}
+        - {x: 27, y: 9.5}
+    - name: supertileset_89
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 162
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_90
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 802
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: barrel
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 769
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 15}
+        - {x: 12, y: 16}
+    - name: supertileset_91
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 962
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_92
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1121
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 30}
+        - {x: -24, y: -30}
+        - {x: 24, y: -30}
+        - {x: 24, y: 30}
+    - name: supertileset_93
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1122
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 30}
+        - {x: -29, y: -30}
+        - {x: 29, y: -30}
+        - {x: 29, y: 30}
+    - name: supertileset_94
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1088
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_95
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1056
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 16}
+        - {x: -30.5, y: -16}
+        - {x: 30.5, y: -16}
+        - {x: 30.5, y: 16}
+    - name: supertileset_96
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1024
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 16}
+        - {x: -29.5, y: -16}
+        - {x: 29.5, y: -16}
+        - {x: 29.5, y: 16}
+    - name: supertileset_97
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 226
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_98
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 223
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_99
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 195
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_100
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 128
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 16.5}
+        - {x: -17, y: -15.5}
+        - {x: -15, y: -16.5}
+        - {x: 17, y: -16.5}
+        - {x: 17, y: 10.5}
+        - {x: 14, y: 16.5}
+    - name: supertileset_101
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 384
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_102
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_104
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 834
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_105
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 833
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_106
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 865
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_107
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 866
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 30.5}
+        - {x: -32, y: 19.5}
+        - {x: -32, y: -30.5}
+        - {x: 32, y: -30.5}
+        - {x: 32, y: 28.5}
+        - {x: 21, y: 30.5}
+    - name: supertileset_108
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 483
+        width: 35
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 45}
+        - {x: -17.5, y: -45}
+        - {x: 17.5, y: -45}
+        - {x: 17.5, y: 45}
+    - name: supertileset_109
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 487
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 17}
+        - {x: -30, y: -17}
+        - {x: 30, y: -17}
+        - {x: 30, y: 17}
+    - name: supertileset_110
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 482
+        width: 29
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_111
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 547
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_112
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 130
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_113
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1858
+        width: 61
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 62.5}
+        - {x: -30.5, y: -62.5}
+        - {x: 30.5, y: -62.5}
+        - {x: 30.5, y: 62.5}
+    - name: supertileset_114
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1919
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: supertileset_115
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 671
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -17, y: 11}
+        - {x: -17, y: 0}
+        - {x: -16, y: -11}
+        - {x: -9, y: -16}
+        - {x: 12, y: -16}
+        - {x: 14, y: -15}
+        - {x: 18, y: -11}
+        - {x: 18, y: 16}
+    - name: supertileset_wall
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1859
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 30}
+        - {x: -31.5, y: -30}
+        - {x: 31.5, y: -30}
+        - {x: 31.5, y: 30}
+    - name: supertileset_116
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1976
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

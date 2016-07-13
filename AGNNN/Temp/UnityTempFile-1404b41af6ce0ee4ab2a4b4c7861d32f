@@ -1,0 +1,120 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp.dll
+-r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll"
+-r:Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
+-r:"Assets/Downloaded/2D Sky FREE/Demo/Scripts/2D Sky FREE.dll"
+-r:"Assets/GUI Animator/Common/Plugins/GETween.dll"
+-r:"Assets/GUI Animator/GUI Animator FREE/Plugins/GUIAnimatorFREE.dll"
+-r:Assets/Plugins/ES2.dll
+-r:Assets/Plugins/MoodkieSecurity.dll
+-r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll"
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_3_5
+-define:UNITY_5_3
+-define:UNITY_5
+-define:UNITY_64
+-define:ENABLE_NEW_BUGREPORTER
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_FRAME_DEBUGGER
+-define:ENABLE_GENERICS
+-define:ENABLE_HOME_SCREEN
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_LIGHT_PROBES_LEGACY
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_PLUGIN_INSPECTOR
+-define:ENABLE_SHADOWS
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:ENABLE_SPRITERENDERER_FLIPPING
+-define:ENABLE_SPRITES
+-define:ENABLE_SPRITE_POLYGON
+-define:ENABLE_TERRAIN
+-define:ENABLE_RAKNET
+-define:ENABLE_UNET
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_VR
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:INCLUDE_IL2CPP
+-define:INCLUDE_DIRECTX12
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_LOCALIZATION
+-define:ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION
+-define:ENABLE_EDITOR_TESTS_RUNNER
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_LOG_MIXED_STACKTRACE
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_CLUSTERINPUT
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:CROSS_PLATFORM_INPUT
+Assets/Downloaded/ChainPack/Chain2D/scripts/Chain.cs
+Assets/Downloaded/ChainPack/Chain2D/scripts/ChainController.cs
+Assets/Downloaded/ChainPack/Chain2D/scripts/Link.cs
+Assets/Downloaded/ChainPack/scriptsOther/CutMouse.cs
+"Assets/Downloaded/Easy Save 2/ES2Init.cs"
+"Assets/Downloaded/Easy Save 2/Examples/Creating an Automatic Save Structure/ES2UniqueID.cs"
+"Assets/Downloaded/Easy Save 2/Examples/Creating an Automatic Save Structure/UniqueGameLogic.cs"
+"Assets/Downloaded/Easy Save 2/Examples/Creating an Automatic Save Structure/UniqueObjectManager.cs"
+"Assets/Downloaded/Easy Save 2/Examples/Creating an Automatic Save Structure/UniqueSaveManager.cs"
+"Assets/Downloaded/Easy Save 2/Examples/Save and Load Prefabs Instantiated at Runtime/PrefabManager.cs"
+"Assets/Downloaded/Easy Save 2/Examples/Shared Assets/Scripts/MyExampleScript.cs"
+"Assets/Downloaded/Easy Save 2/Examples/Upload and Download a Texture/UploadDownloadTexture.cs"
+Assets/Downloaded/RainMaker/Demo/DemoScript.cs
+Assets/Downloaded/RainMaker/Demo/DemoScript2D.cs
+Assets/Downloaded/RainMaker/Prefab/BaseRainScript.cs
+Assets/Downloaded/RainMaker/Prefab/RainCollision.cs
+Assets/Downloaded/RainMaker/Prefab/RainScript.cs
+Assets/Downloaded/RainMaker/Prefab/RainScript2D.cs
+Assets/Downloaded/Tazo_fx/Script/BillBoard.cs
+"Assets/Downloaded/True Explosions/System/Scripts/effects/PseudoVolumetricExplosion.cs"
+"Assets/Downloaded/True Explosions/System/Scripts/effects/exploderComponents/ExploderComponent.cs"
+"Assets/Downloaded/True Explosions/System/Scripts/effects/exploderComponents/LightComponent.cs"
+"Assets/Downloaded/True Explosions/System/Scripts/effects/exploderComponents/ParticleComponent.cs"
+"Assets/Downloaded/True Explosions/System/Scripts/effects/exploderComponents/PseudoVolumetricComponent.cs"
+"Assets/Downloaded/True Explosions/System/Scripts/effects/exploderComponents/VolumetricComponent.cs"
+"Assets/Downloaded/True Explosions/System/Scripts/effects/exploderComponents/VolumetricComponent2D.cs"
+"Assets/Downloaded/True Explosions/System/Scripts/exploders/Exploder.cs"
+"Assets/Downloaded/True Explosions/System/Scripts/exploders/Exploder2D.cs"
+"Assets/Downloaded/True Explosions/System/Scripts/exploders/SphereExploder.cs"
+"Assets/GE Common Assets/GE Toggle Full Screen/Scripts/GE_ToggleFullScreenUI.cs"
+"Assets/GE Common Assets/Scripts/GE_UIResponder.cs"
+-r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\System.Runtime.Serialization.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\System.Xml.Linq.dll"

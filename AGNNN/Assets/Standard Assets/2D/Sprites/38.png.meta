@@ -1,0 +1,1076 @@
+fileFormatVersion: 2
+guid: 3150312833dd0474ca36f6fc0b16c730
+timeCreated: 1468348223
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mountainpath
+    21300002: liltree
+    21300004: bush
+    21300006: casa
+    21300008: decoracion_farol
+    21300010: Sign
+    21300012: Arbustoarreglado
+    21300014: Puentesuperior
+    21300016: PuenteInferior
+    21300018: Roca_decoracion
+    21300020: Paredrocosaplantas
+    21300022: paredrocosa
+    21300024: suelorocoso
+    21300026: charco
+    21300028: rocabajoagua
+    21300030: stairsdown
+    21300032: stairsup
+    21300034: Paredminadeco
+    21300036: Paredmina
+    21300038: paredminacurvader
+    21300040: Paredminacurvaizq
+    21300042: pisodemina
+    21300044: rocadeco
+    21300046: plataformapastoroca
+    21300048: ramaflotante
+    21300050: platafmaderder
+    21300052: platafmaderizq
+    21300054: bordesuelorocoso
+    21300056: Rocaplataforma
+    21300058: decoracionplanta
+    21300060: caveborder
+    21300062: 37_0
+    21300064: 37_1
+    21300066: 37_2
+    21300068: 37_3
+    21300070: 37_4
+    21300072: 37_5
+    21300074: 37_6
+    21300076: 37_7
+    21300078: 37_8
+    21300080: 37_9
+    21300082: 37_10
+    21300084: 37_11
+    21300086: 37_12
+    21300088: 37_13
+    21300090: 37_14
+    21300092: 37_15
+    21300094: 37_16
+    21300096: 37_17
+    21300098: 37_18
+    21300100: 37_19
+    21300102: 37_20
+    21300104: 37_21
+    21300106: 37_22
+    21300108: 37_23
+    21300110: 37_24
+    21300112: 37_25
+    21300114: 37_26
+    21300116: 37_27
+    21300118: 37_28
+    21300120: 37_29
+    21300122: 38_0
+    21300124: 38_1
+    21300126: 38_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mountainpath
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1702
+        width: 38
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 57}
+        - {x: -19, y: -57}
+        - {x: 19, y: -57}
+        - {x: 19, y: 57}
+    - name: liltree
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1569
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bush
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1507
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 23.5}
+        - {x: -27, y: 7.5}
+        - {x: -27, y: -18.5}
+        - {x: -15, y: -25.5}
+        - {x: 21, y: -25.5}
+        - {x: 27, y: -16.5}
+        - {x: 27, y: 13.5}
+        - {x: 17, y: 23.5}
+    - name: casa
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 801
+        width: 206
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: 111.5}
+        - {x: -98, y: 111.5}
+        - {x: -98, y: 15.5}
+        - {x: -96, y: 13.5}
+        - {x: -92, y: 13.5}
+        - {x: -87, y: 8.5}
+        - {x: -87, y: -80.5}
+        - {x: -85, y: -82.5}
+        - {x: -82, y: -82.5}
+        - {x: -82, y: -111.5}
+        - {x: 85, y: -111.5}
+        - {x: 103, y: -93.5}
+        - {x: 103, y: 17.5}
+        - {x: 98, y: 17.5}
+    - name: decoracion_farol
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 543
+        width: 37
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 49}
+        - {x: -14.5, y: -45}
+        - {x: -13.5, y: -49}
+        - {x: 18.5, y: -49}
+        - {x: 18.5, y: 49}
+      - - {x: -18.5, y: 49}
+        - {x: -18.5, y: 46}
+        - {x: -13.5, y: 46}
+        - {x: -11.5, y: 48}
+        - {x: -11.5, y: 49}
+    - name: Sign
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1543
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arbustoarreglado
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 579
+        width: 29
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Puentesuperior
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1603
+        width: 125
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.5, y: 28.5}
+        - {x: -62.5, y: -28.5}
+        - {x: 62.5, y: -28.5}
+        - {x: 62.5, y: 28.5}
+    - name: PuenteInferior
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1538
+        width: 127
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: 30}
+        - {x: -63.5, y: -2}
+        - {x: -60.5, y: -1}
+        - {x: -63.5, y: -4}
+        - {x: -63.5, y: -30}
+        - {x: 63.5, y: -30}
+        - {x: 63.5, y: 30}
+    - name: Roca_decoracion
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2017
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Paredrocosaplantas
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 355
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 30}
+        - {x: -30.5, y: -30}
+        - {x: 30.5, y: -30}
+        - {x: 30.5, y: 30}
+    - name: paredrocosa
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 354
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suelorocoso
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 609
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 16}
+        - {x: -17, y: -16}
+        - {x: 17, y: -16}
+        - {x: 17, y: 16}
+    - name: charco
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 770
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rocabajoagua
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 660
+        width: 33
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 36.5}
+        - {x: -16.5, y: -36.5}
+        - {x: 16.5, y: -36.5}
+        - {x: 16.5, y: 36.5}
+    - name: stairsdown
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 290
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 31}
+        - {x: -27.5, y: -13}
+        - {x: -0.5, y: -31}
+        - {x: 21.5, y: -31}
+        - {x: 21.5, y: 5}
+        - {x: -17.5, y: 31}
+    - name: stairsup
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 353
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 30.5}
+        - {x: -22, y: 7.5}
+        - {x: -22, y: -30.5}
+        - {x: 1, y: -30.5}
+        - {x: 28, y: -11.5}
+        - {x: 28, y: 30.5}
+    - name: Paredminadeco
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1090
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 46.5}
+        - {x: -47.5, y: -46.5}
+        - {x: 47.5, y: -46.5}
+        - {x: 47.5, y: 46.5}
+    - name: Paredmina
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1123
+        width: 37
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 44}
+        - {x: -18.5, y: -44}
+        - {x: 18.5, y: -44}
+        - {x: 18.5, y: 44}
+    - name: paredminacurvader
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1122
+        width: 28
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Paredminacurvaizq
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1122
+        width: 27
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pisodemina
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1101
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 17.5}
+        - {x: -23.5, y: -17.5}
+        - {x: 23.5, y: -17.5}
+        - {x: 23.5, y: 17.5}
+    - name: rocadeco
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1281
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 30.5}
+        - {x: -31, y: 19.5}
+        - {x: -31, y: -21.5}
+        - {x: -26, y: -30.5}
+        - {x: 27, y: -30.5}
+        - {x: 31, y: -22.5}
+        - {x: 31, y: 4.5}
+        - {x: 26, y: 30.5}
+    - name: plataformapastoroca
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1409
+        width: 62
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 62}
+        - {x: -31, y: 59}
+        - {x: -31, y: -62}
+        - {x: 31, y: -62}
+        - {x: 31, y: 62}
+    - name: ramaflotante
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1633
+        width: 70
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: platafmaderder
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 573
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -25}
+        - {x: -29, y: -28}
+        - {x: -5, y: -28}
+        - {x: -3, y: -26}
+        - {x: -4, y: -23}
+        - {x: -28, y: -23}
+      - - {x: 1, y: -25}
+        - {x: 2, y: -28}
+        - {x: 26, y: -28}
+        - {x: 28, y: -26}
+        - {x: 27, y: -23}
+        - {x: 3, y: -23}
+      - - {x: -18, y: 9}
+        - {x: -18, y: -4}
+        - {x: -15, y: -12}
+        - {x: 22, y: -25}
+        - {x: 31, y: -25}
+        - {x: 31, y: 9}
+    - name: platafmaderizq
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 573
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: -23.5}
+        - {x: 13.5, y: -26.5}
+        - {x: 24.5, y: -26.5}
+        - {x: 24.5, y: -21.5}
+        - {x: 14.5, y: -21.5}
+      - - {x: 21.5, y: 10.5}
+        - {x: -24.5, y: 10.5}
+        - {x: -24.5, y: -22.5}
+        - {x: -23.5, y: -22.5}
+        - {x: 23.5, y: -3.5}
+        - {x: 23.5, y: 8.5}
+    - name: bordesuelorocoso
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 665
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 18.5}
+        - {x: -18.5, y: -18.5}
+        - {x: 18.5, y: -18.5}
+        - {x: 18.5, y: 18.5}
+    - name: Rocaplataforma
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 640
+        width: 27
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: decoracionplanta
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1418
+        width: 36
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 6.5}
+        - {x: -17, y: -31.5}
+        - {x: -15, y: -34.5}
+        - {x: -2, y: -39.5}
+        - {x: 6, y: -39.5}
+        - {x: 16, y: -34.5}
+        - {x: 16, y: 18.5}
+        - {x: 15, y: 37.5}
+        - {x: 10, y: 39.5}
+        - {x: -6, y: 39.5}
+        - {x: -8, y: 38.5}
+    - name: caveborder
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1798
+        width: 91
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 37_0
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 449
+        width: 94
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 18}
+        - {x: -47, y: -11}
+        - {x: 47, y: -11}
+        - {x: 47, y: 18}
+    - name: 37_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 896
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 37_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1091
+        width: 95
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 37_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1218
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 18}
+        - {x: -25, y: -18}
+        - {x: 25, y: -18}
+        - {x: 25, y: 18}
+    - name: 37_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1385
+        width: 23
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 37_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1717
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 21}
+        - {x: -19, y: -21}
+        - {x: 19, y: -21}
+        - {x: 19, y: 21}
+    - name: 37_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1726
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 37_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1725
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 16}
+        - {x: -27, y: -16}
+        - {x: 27, y: -16}
+        - {x: 27, y: 16}
+    - name: 37_8
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 514
+        width: 82
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: -0.5}
+        - {x: -19, y: -23.5}
+        - {x: 19, y: -23.5}
+        - {x: 41, y: -10.5}
+        - {x: 41, y: 10.5}
+        - {x: 36, y: 14.5}
+        - {x: 20, y: 23.5}
+        - {x: -17, y: 23.5}
+        - {x: -40, y: 11.5}
+    - name: 37_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 96
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 112}
+        - {x: -48, y: -112}
+        - {x: 48, y: -112}
+        - {x: 48, y: 112}
+    - name: 37_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1601
+        width: 61
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 79.5}
+        - {x: -30.5, y: -79.5}
+        - {x: 30.5, y: -79.5}
+        - {x: 30.5, y: 79.5}
+    - name: 37_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 418
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 32}
+        - {x: -42.5, y: -32}
+        - {x: 42.5, y: -32}
+        - {x: 42.5, y: 32}
+    - name: 37_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 486
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 37_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 482
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 30.5}
+        - {x: -16, y: -30.5}
+        - {x: 16, y: -30.5}
+        - {x: 16, y: 30.5}
+    - name: 37_14
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 5
+        width: 54
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 46}
+        - {x: -27, y: 42}
+        - {x: -27, y: -46}
+        - {x: 27, y: -46}
+        - {x: 27, y: 43}
+        - {x: 25, y: 46}
+    - name: 37_15
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 0
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 64}
+        - {x: -16, y: -64}
+        - {x: 16, y: -64}
+        - {x: 16, y: 64}
+    - name: 37_16
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 237
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 25.5}
+        - {x: -16.5, y: -25.5}
+        - {x: -14.5, y: -27.5}
+        - {x: 17.5, y: -27.5}
+        - {x: 17.5, y: 25.5}
+    - name: 37_17
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 144
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 29.5}
+        - {x: -13, y: 27.5}
+        - {x: -13, y: -32.5}
+        - {x: 10, y: -32.5}
+        - {x: 10, y: 28.5}
+        - {x: 8, y: 29.5}
+    - name: 37_18
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 84
+        width: 71
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 17.5}
+        - {x: -28.5, y: -18.5}
+        - {x: -27.5, y: -22.5}
+        - {x: 27.5, y: -22.5}
+        - {x: 27.5, y: 17.5}
+    - name: 37_19
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 96
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 37_20
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 507
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 37}
+        - {x: -22.5, y: 34}
+        - {x: -22.5, y: -42}
+        - {x: -19.5, y: -43}
+        - {x: 26.5, y: -43}
+        - {x: 26.5, y: 37}
+    - name: 37_21
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 864
+        width: 31
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 37_22
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 417
+        width: 194
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97, y: 48}
+        - {x: -97, y: -48}
+        - {x: 97, y: -48}
+        - {x: 97, y: 48}
+    - name: 37_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 352
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      outline: []
+    - name: 37_24
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 337
+        width: 91
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 22.5}
+        - {x: -40.5, y: 14.5}
+        - {x: -40.5, y: 1.5}
+        - {x: -38.5, y: -7.5}
+        - {x: -19.5, y: -22.5}
+        - {x: 32.5, y: -22.5}
+        - {x: 41.5, y: -1.5}
+        - {x: 41.5, y: 14.5}
+        - {x: 33.5, y: 22.5}
+    - name: 37_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 336
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 32.5}
+        - {x: -33.5, y: 31.5}
+        - {x: -33.5, y: -32.5}
+        - {x: 33.5, y: -32.5}
+        - {x: 33.5, y: 32.5}
+    - name: 37_26
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1586
+        width: 30
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 37_27
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1728
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 37_28
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 239
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 20}
+        - {x: -19, y: 20}
+        - {x: -29, y: 16}
+        - {x: -29, y: -20}
+        - {x: 24, y: -20}
+        - {x: 26, y: -12}
+        - {x: 26, y: 6}
+        - {x: 25, y: 13}
+    - name: 37_29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1914
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 50}
+        - {x: -47, y: 46}
+        - {x: -47, y: -50}
+        - {x: 47, y: -50}
+        - {x: 47, y: 41}
+        - {x: 42, y: 50}
+    - name: 38_0
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1600
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 38_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 593
+        width: 93
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 69.5}
+        - {x: -46.5, y: 63.5}
+        - {x: -46.5, y: -69.5}
+        - {x: 46.5, y: -69.5}
+        - {x: 46.5, y: 67.5}
+        - {x: 37.5, y: 69.5}
+    - name: 38_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 95
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: dc80b32faa81da345933e4b9d311d86b
+timeCreated: 1464812618
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: slime1
+    21300002: slime2
+    21300004: slime3
+    21300006: slime4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: slime1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 203
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -19, y: 6}
+        - {x: -20, y: 0}
+        - {x: -20, y: -14}
+        - {x: -16, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 13}
+        - {x: 11, y: 15}
+    - name: slime2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 204
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 17.5}
+        - {x: -18.5, y: 7.5}
+        - {x: -18.5, y: -16.5}
+        - {x: -16.5, y: -17.5}
+        - {x: 11.5, y: -17.5}
+        - {x: 17.5, y: -13.5}
+        - {x: 17.5, y: 11.5}
+        - {x: 7.5, y: 17.5}
+    - name: slime3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 204
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 21.5}
+        - {x: -12, y: 15.5}
+        - {x: -16, y: 0.5}
+        - {x: -16, y: -21.5}
+        - {x: 13, y: -21.5}
+        - {x: 16, y: -20.5}
+        - {x: 16, y: 18.5}
+        - {x: 7, y: 21.5}
+    - name: slime4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 204
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -14, y: 16}
+        - {x: -18, y: 9}
+        - {x: -18, y: -16}
+        - {x: 17, y: -16}
+        - {x: 18, y: -15}
+        - {x: 18, y: -4}
+        - {x: 15, y: 10}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

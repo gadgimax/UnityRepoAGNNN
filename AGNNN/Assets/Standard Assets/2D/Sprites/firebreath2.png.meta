@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: e24bcf5ad04c35540a564019d1624989
+timeCreated: 1466535911
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: firebreath2_0
+    21300002: firebreath2_1
+    21300004: firebreath2_2
+    21300006: firebreath2_3
+    21300008: firebreath2_4
+    21300010: firebreath2_5
+    21300012: firebreath2_6
+    21300014: firebreath2_7
+    21300016: firebreath2_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: firebreath2_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 37
+        width: 31
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: firebreath2_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 38
+        width: 23
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: firebreath2_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 38
+        width: 25
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: firebreath2_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 36
+        width: 24
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 3, z: 1, w: 0}
+      outline: []
+    - name: firebreath2_4
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 40
+        width: 29
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: firebreath2_5
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 37
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 40.5}
+        - {x: -14.5, y: 15.5}
+        - {x: -14.5, y: -40.5}
+        - {x: 17.5, y: -40.5}
+        - {x: 17.5, y: 32.5}
+        - {x: 11.5, y: 40.5}
+    - name: firebreath2_6
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 40
+        width: 38
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 42.5}
+        - {x: -18, y: 28.5}
+        - {x: -18, y: -42.5}
+        - {x: 19, y: -42.5}
+        - {x: 19, y: 42.5}
+    - name: firebreath2_7
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 41
+        width: 33
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 35}
+        - {x: -11.5, y: 29}
+        - {x: -16.5, y: 10}
+        - {x: -16.5, y: -41}
+        - {x: 16.5, y: -41}
+        - {x: 16.5, y: 27}
+        - {x: 12.5, y: 35}
+    - name: firebreath2_8
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 39
+        width: 26
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
